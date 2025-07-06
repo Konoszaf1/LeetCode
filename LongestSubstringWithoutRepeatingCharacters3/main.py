@@ -1,6 +1,3 @@
-# Definition for singly-linked list.
-from typing import Optional
-import itertools
 
 class Solution:
     # Too slow, iteration over huge strings took too long
